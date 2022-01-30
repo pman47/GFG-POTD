@@ -11,16 +11,16 @@ Note: Coins of the negative denomination are also possible at Geekland.
 Input:
 	N = 5, K = 3 
 	a[[]] = {1, 1, 1, 1, 1} 
-			{2, 2, 2, 2, 2} 
-			{3, 8, 6, 7, 3} 
-			{4, 4, 4, 4, 4} 
-			{5, 5, 5, 5, 5}
+		{2, 2, 2, 2, 2} 
+		{3, 8, 6, 7, 3} 
+		{4, 4, 4, 4, 4} 
+		{5, 5, 5, 5, 5}
 Output:
 	48
 Explanation:
 	{8, 6, 7}
 	{4, 4, 4}
-    {5, 5, 5}
+    	{5, 5, 5}
 	has the maximum sum
 </pre>
 
